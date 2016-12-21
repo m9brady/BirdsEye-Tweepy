@@ -2,7 +2,7 @@
 Tracks mentions of snow/neige in EN/FR tweets, prints time/handle/text along with any included location info and/or media URLs
 
 ## Requirements
-*The following assumes you having Anaconda ([http://continuum.io/downloads](http://continuum.io/downloads)) or Miniconda ([http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)) installed and are familiar with their utilities*
+*The following assumes you have Anaconda ([http://continuum.io/downloads](http://continuum.io/downloads)) or Miniconda ([http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)) installed and are familiar with their utilities*
 ```
 conda create -n birdseye-tweepy python=2.7 pip -c 'defaults' --override-channels --no-default-packages
 ```
